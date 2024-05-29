@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 
 const UserPosts = ({ userId }) => {
   const [posts, setPosts] = useState([]);
-
   useEffect(() => {
     const fetchData = async () => {
       try {
