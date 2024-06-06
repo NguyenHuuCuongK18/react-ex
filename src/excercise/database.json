@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "React",
+      "author": "Hoan"
+    },
+    {
+      "title": "Updated Title",
+      "author": "Updated Author",
+      "id": "0a1f"
+    }
+  ],
+  "users": [
+    {
+      "uid": "1",
+      "username": "Hoan",
+      "password": "123",
+      "details": "Hoan Nguyen"
+    },
+    {
+      "uid": "2",
+      "username": "Minh",
+      "password": "456",
+      "details": "Minh Nguyen"
+    }
+  ]
+}
